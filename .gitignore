@@ -10,8 +10,8 @@ build/
 venv/
 
 # Data (large files)
-data/*.zarr
-data/*.zip
+dataset/*.zarr
+dataset/*.zip
 
 # Videos
 videos/*.mp4
